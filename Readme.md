@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Мурад Лиматов](https://up.htmlacademy.ru/javascript/25/user/40287).
-* Наставник: `Павел Нюкало`.
+* Наставник: [Павел Нюкало](https://htmlacademy.ru/profile/nyukalopavel).
 
 ---
 
